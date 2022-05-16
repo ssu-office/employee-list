@@ -15,7 +15,7 @@ John
 Bread
 Lion
 Tom
-Jenny
-Lisa
+[out]Jenny
+[out]Lisa
 Cassie
 Tony
